@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers - yalnızca statik dosya (assets-only) dağıtımı.
+  // Bu uygulamada sunucu kodu yok; sadece Vite'in ürettiği dist/ klasörü servis edilir.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mun-helper",
+  "compatibility_date": "2024-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
