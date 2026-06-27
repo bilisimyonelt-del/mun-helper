@@ -1,4 +1,4 @@
-# MUN Kriz Yardımcısı
+# MUN Kriz Yardımcısı test linki https://mun-helper.bilisimyonelt.workers.dev/
 
 Model United Nations (MUN) **kriz komitesi** için tarayıcı tabanlı, cihazlar arası
 senkronize bir yardımcı uygulama. Telefon, tablet ve bilgisayardan **aynı oda koduyla**
